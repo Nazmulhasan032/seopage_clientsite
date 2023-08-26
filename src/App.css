@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.logoImage{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+  }
+  .rating{
+    height: 32px;
+    width: 32px;
+    border-radius: 50%;
+  }
+.box1{
+    height: 30px;
+    width: 40px;
+    background-color: red;
+    border-radius: 20px 0 0 20px;
+}
+.box2{
+    height: 30px;
+    width: 40px;
+    background-color: yellow;
+    border-radius: 20px 0 0 20px;
+}
+.box3{
+    height: 30px;
+    width: 40px;
+    background-color: green;
+    border-radius: 20px 0 0 20px;
+}
+.box4{
+    height: 30px;
+    width: 40px;
+    background-color: rgb(204, 243, 98);
+    border-radius: 20px 0 0 20px;
+}
+.box5{
+    height: 30px;
+    width: 40px;
+    background-color: rgb(166, 56, 230);
+    border-radius: 20px 0 0 20px;
+}
+.box6{
+    height: 30px;
+    width: 40px;
+    background-color: rgb(238, 75, 26);
+    border-radius: 20px 0 0 20px;
+}
